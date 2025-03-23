@@ -304,6 +304,6 @@ Contributions are welcome\! Feel free to submit pull requests or open issues to 
 This project is part of my portfolio, showcasing the skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 
-- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/venkata-manikanta-sasank-reddy-ramireddy-a7158730b)
+- **LinkedIn**: [Connect with me professionally]([www.linkedin.com/in/venkata-manikanta-sasank-reddy-ramireddy-a7158730b](https://www.linkedin.com/in/venkata-manikanta-sasank-reddy-ramireddy-a7158730b/))
 
 Thank you for your support, and I look forward to connecting with you!
