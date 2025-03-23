@@ -113,7 +113,7 @@ Contributions are welcome! Feel free to submit **pull requests** or open **issue
 **JustShashi**  
 This project showcases key skills required for **data analytics and Power BI development**.
 
-**📌 Connect with me on LinkedIn**  
+- **LinkedIn**: [Connect with me on LinkedIn](www.linkedin.com/in/venkata-manikanta-sasank-reddy-ramireddy-a7158730b) 
 *Let's collaborate on data-driven insights!*
 
 ---
